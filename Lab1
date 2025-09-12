@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<html>
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="w=device-width">
+      <title>My short bio</title>
+</head>
+<body>
+    <h1>Tofik Ahmed</h1>      
+    <p>my name is tofik from b tech</p>
+    <hr>
+    <h2>my interest </h2>
+    <p>coding, sports</p>    
+</body>
+</html>
